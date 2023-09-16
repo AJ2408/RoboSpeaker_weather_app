@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to develop a robot speaker-based weather app that provides users with a convenient and hands-free way to access weather information. The app will be able to understand natural language queries and generate responses in a clear and concise manner. This allows users to access weather information without having to look at a screen or type anything.
+This project aims to develop a speech-to-speech robot speaker-based weather app that provides users with a convenient and hands-free way to access weather information. The app will be able to understand natural language queries and generate responses in a clear and concise manner. This allows users to access weather information without having to look at a screen or type anything.
 
 #### Project goal:
 
