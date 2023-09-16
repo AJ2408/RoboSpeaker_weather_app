@@ -8,7 +8,10 @@ This project aims to develop a robot speaker-based weather app that provides use
 
 The main goals of this project are to:
 
-Develop a robot speaker-based weather app that is easy to use and provides users with accurate and timely weather information.
-Make the app accessible to a wide range of users, including those with disabilities.
-Implement natural language processing capabilities to allow users to interact with the app in a natural and intuitive way.
-Personalize the weather experience for each user by taking into account their location and preferences.
++ Develop a robot speaker-based weather app that is easy to use and provides users with accurate and timely weather information.
+
++ Make the app accessible to a wide range of users, including those with disabilities.
+
++ Implement natural language processing capabilities to allow users to interact with the app in a natural and intuitive way.
+
++ Personalize the weather experience for each user by taking into account their location and preferences.
