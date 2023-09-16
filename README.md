@@ -32,3 +32,8 @@ In Python, SAPI5 can be used with the pyttsx3 module to create applications that
 **3) speechRecognition module :-**
 
 The SpeechRecognition module in Python is a library that provides speech recognition capabilities. It supports a variety of speech recognition engines, including Google Speech Recognition, Microsoft Speech Recognition, and IBM Watson Speech to Text.
+
+
+### Note
+
+Before going to run the file, you must create an account on any weather api site and paste the url of the same in the code and also the API Key of your own account is required.
